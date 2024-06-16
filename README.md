@@ -1,4 +1,4 @@
-run
+複製以下console腳本
 
     function clickAllButtons() {
       const treasureButtons = document.querySelectorAll('img#treasure-icon');
