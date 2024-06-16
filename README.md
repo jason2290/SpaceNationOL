@@ -1,4 +1,5 @@
 run
+
     function clickAllButtons() {
       const treasureButtons = document.querySelectorAll('img#treasure-icon');
       treasureButtons.forEach(button => button.click());
