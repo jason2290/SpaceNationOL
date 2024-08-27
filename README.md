@@ -19,3 +19,6 @@
     }
     
     setInterval(clickAllButtons, 1000); 
+
+先設置
+    pip install -r requirements.txt
